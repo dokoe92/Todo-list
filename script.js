@@ -1,4 +1,5 @@
 let todoArray = [];
+let test = 0;
 //let id = 0;
 
 function addTodo() {
