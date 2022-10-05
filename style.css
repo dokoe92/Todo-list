@@ -1,0 +1,7 @@
+.marked {
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    width: 200px;
+}
